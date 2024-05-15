@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "olxClone",
+			"path": "../../.."
+		},
+		{
+			"name": "public",
+			"path": "../../../../olx/React_tutorial_olx_clone/public"
+		}
+	],
+	"settings": {}
+}
